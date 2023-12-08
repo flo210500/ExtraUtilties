@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snow",
+    "minecraft:snow_block",
+    "minecraft:packed_ice",
+    "minecraft:air",
+    "minecraft:ice",
+    "minecraft:frosted_ice",
+    "minecraft:snowball",
+    "minecraft:blue_ice"
+  ]
+}
